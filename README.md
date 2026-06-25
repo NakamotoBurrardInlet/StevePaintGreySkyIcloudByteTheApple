@@ -1,6 +1,6 @@
-#![Uploading 1780996515572.png…]()
+![Uploading 1780996515572.png…]()
 
-🍏 GREY SKY PROTOCOL V2: THE GREEN MACINTOSH APPLE
+#🍏 GREY SKY PROTOCOL V2: THE GREEN MACINTOSH APPLE
 **The Official "I Cloud It Up" Documentation**
 Welcome to the ultimate constellation registry. This README details the super-light-speed, blind-mind-bouncing, sine-linear-expressing architecture of the Grey Sky Protocol. We took the legendary green Macintosh apple, looked up at the overcast horizon, and laughed as we turned Steve Jobs' literal *bite* into a high-frequency WebSocket *byte*.
 Did Steve ever look at a Granny Smith apple, take a massive crunch, point to the sky, and say, *"I'm gonna cloud it up"*? Probably not. But in our constellation, that is exactly what happened. We are taking that spectral energy, doubling up the moisture, dropping the temperature to an arctic wind chill, and throwing it back into the node load heads!
